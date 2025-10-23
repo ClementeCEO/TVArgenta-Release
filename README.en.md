@@ -71,7 +71,7 @@ Before that, we need to configure our SSH keys.
 Press Enter to accept the default path (`~/.ssh/id_ed25519`).
 You can leave the passphrase empty (just press Enter) or add one for better security.
 
-### 3) Show the public key (this one goes to GitHub)
+### 3) Show the public key (this one goes to GitHub -> <a href="https://github.com/settings/keys" target="_blank" style="background:#24292e;color:white;padding:8px 12px;border-radius:6px;text-decoration:none;">  🔑 GitHub Keys</a>)
 
 `cat ~/.ssh/id_ed25519.pub`
 
