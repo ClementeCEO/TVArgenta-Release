@@ -23,6 +23,9 @@ This release marks a huge step forward for TVArgenta — not only as a nostalgic
 This image is provided as a ready-to-use Raspberry Pi 4 (2 GB +) system, based on Raspberry Pi OS Bookworm.
 It includes all scripts, dependencies, and startup services preconfigured.
 
+📦 **Download the official image:**  
+[TVArgenta v2.0 on Archive.org](https://archive.org/details/2025-11-11-tvargenta-public-v-2.img)
+
 ### Recommended method (Raspberry Pi Imager)
 
 - 1.Download the .img.xz file from the official release or Archive.org mirror
