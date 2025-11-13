@@ -28,5 +28,9 @@
   "wifi_setup.msg_forget_fail": "Netz \"{ssid}\" konnte nicht entfernt werden: {error}",
   "wifi_setup.msg_apply_best_ok": "Versuche, das beste gespeicherte Netzwerk zu nutzen...",
   "wifi_setup.msg_apply_best_fail": "Keine gespeicherten Netzwerke verfügbar.",
-  "wifi_setup.back_to_tv": "Zurück zu TVArgenta"
+  "wifi_setup.back_to_tv": "Zurück zu TVArgenta",
+  "layout.lang_label": "Sprache",
+  "layout.lang_es": "🇦🇷 ES",
+  "layout.lang_en": "🇺🇸 EN",
+  "layout.lang_de": "🇩🇪 DE"
 }

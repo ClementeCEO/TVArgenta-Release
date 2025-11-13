@@ -28,5 +28,10 @@
   "wifi_setup.msg_forget_fail": "Could not forget \"{ssid}\": {error}",
   "wifi_setup.msg_apply_best_ok": "Trying to connect to the best saved network...",
   "wifi_setup.msg_apply_best_fail": "No saved networks available.",
-  "wifi_setup.back_to_tv": "Back to TVArgenta"
+  "wifi_setup.back_to_tv": "Back to TVArgenta",
+  "layout.lang_label": "Language",
+  "layout.lang_es": "🇦🇷 ES",
+  "layout.lang_en": "🇺🇸 EN",
+  "layout.lang_de": "🇩🇪 DE"
+	
 }

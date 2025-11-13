@@ -28,5 +28,9 @@
   "wifi_setup.msg_forget_fail": "No pude olvidar la red \"{ssid}\": {error}",
   "wifi_setup.msg_apply_best_ok": "Intentando conectar a la mejor red guardada...",
   "wifi_setup.msg_apply_best_fail": "No encontré redes guardadas para usar.",
-  "wifi_setup.back_to_tv": "Volver a TVArgenta"
+  "wifi_setup.back_to_tv": "Volver a TVArgenta",
+  "layout.lang_label": "Idioma",
+  "layout.lang_es": "🇦🇷 ES",
+  "layout.lang_en": "🇺🇸 EN",
+  "layout.lang_de": "🇩🇪 DE"
 }
