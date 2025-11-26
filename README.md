@@ -87,6 +87,12 @@ Creative Commons Attribution – NonCommercial – NoDerivs 4.0 International
 (CC BY-NC-ND 4.0)
 
 -------------------------------------------------------------
+
+## Detalles de conexiones y ensamblaje
+
+Pueden ser encontrados en Instructables: [TVArgenta v2.0 on Instructables](https://www.instructables.com/Build-Your-Own-Retro-TV-With-Raspberry-Pi-Offline-/)
+
+-------------------------------------------------------------
 # Para quienes quieran hacerlo todo a mano (Aplicable para Release 1.0)
 
 # Primera parte: Configuracion basica de la Raspberry Pi
